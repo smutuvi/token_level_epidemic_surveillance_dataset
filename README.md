@@ -1,1 +1,1 @@
-# token_level_epidemic_surveillance_dataset
+# Token-level Multilingual Epidemic Dataset for Event Extraction
